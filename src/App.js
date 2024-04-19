@@ -9,13 +9,13 @@ const App = () => {
       {/* 路由 */}
       <Routes>
         <Route path="/nailweb" element={<Homepage/>} />
-        <Route path="white_spot" element={<Whitespot/>} />
-        <Route path="Onychomycosis" element={<Onychomycosis/>} />
-        <Route path="beau_s" element={<Beau_s/>} />
-        <Route path="black_line" element={<Black_line/>} />
-        <Route path="clubbing" element={<Clubbing/>} />
-        <Route path="healthy_nail" element={<Healthy_nail/>} />
-        <Route path="onycholysis" element={<Onycholysis/>} />
+        <Route path="/nailweb/white_spot" element={<Whitespot/>} />
+        <Route path="/nailweb/Onychomycosis" element={<Onychomycosis/>} />
+        <Route path="/nailweb/beau_s" element={<Beau_s/>} />
+        <Route path="/nailweb/black_line" element={<Black_line/>} />
+        <Route path="/nailweb/clubbing" element={<Clubbing/>} />
+        <Route path="/nailweb/healthy_nail" element={<Healthy_nail/>} />
+        <Route path="/nailweb/onycholysis" element={<Onycholysis/>} />
       </Routes>
     </Router>
   );
