@@ -8,7 +8,7 @@ const App = () => {
     <Router>
       {/* 路由 */}
       <Routes>
-        <Route path="/" element={<Homepage/>} />
+        <Route path="/nailweb" element={<Homepage/>} />
         <Route path="white_spot" element={<Whitespot/>} />
         <Route path="Onychomycosis" element={<Onychomycosis/>} />
         <Route path="beau_s" element={<Beau_s/>} />

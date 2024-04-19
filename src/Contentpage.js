@@ -22,7 +22,7 @@ export function Whitespot() {
 
     const navigate = useNavigate();
     const backtohome = ()=>{
-        navigate('/');
+        navigate('/nailweb');
     };
     return (
         <div className='page_body' style={{color:'white'}}>
@@ -47,7 +47,7 @@ export function Onychomycosis() {
 
     const navigate = useNavigate();
     const backtohome = ()=>{
-        navigate('/');
+        navigate('/nailweb');
     };
     return (
         <div className='page_body' style={{color:'white'}}>
@@ -96,7 +96,7 @@ export function Beau_s() {
 
     const navigate = useNavigate();
     const backtohome = ()=>{
-        navigate('/');
+        navigate('/nailweb');
     };
     return (
         <div className='page_body' style={{color:'white'}}>
@@ -163,7 +163,7 @@ export function Black_line() {
 
     const navigate = useNavigate();
     const backtohome = ()=>{
-        navigate('/');
+        navigate('/nailweb');
     };
     return (
         <div className='page_body' style={{color:'white'}}>
@@ -211,7 +211,7 @@ export function Clubbing() {
 
     const navigate = useNavigate();
     const backtohome = ()=>{
-        navigate('/');
+        navigate('/nailweb');
     };
     return (
         <div className='page_body' style={{color:'white'}}>
@@ -256,7 +256,7 @@ export function Healthy_nail() {
 
     const navigate = useNavigate();
     const backtohome = ()=>{
-        navigate('/');
+        navigate('/nailweb');
     };
     return (
         <div className='page_body' style={{color:'white'}}>
@@ -278,7 +278,7 @@ export function Onycholysis() {
 
     const navigate = useNavigate();
     const backtohome = ()=>{
-        navigate('/');
+        navigate('/nailweb');
     };
     return (
         <div className='page_body' style={{color:'white'}}>
