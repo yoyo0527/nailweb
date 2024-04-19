@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nailweb/static/css/main.912d33a7.css",
+    "main.js": "/nailweb/static/js/main.7742a2ec.js",
+    "static/js/787.88dfdeb5.chunk.js": "/nailweb/static/js/787.88dfdeb5.chunk.js",
+    "static/media/loading.gif": "/nailweb/static/media/loading.5a1c36247ecafcdcc5aa.gif",
+    "static/media/healthy.jpg": "/nailweb/static/media/healthy.e340d556d0e1b748f405.jpg",
+    "static/media/onycholysis2.jpg": "/nailweb/static/media/onycholysis2.4c8ea60b10f8dbe4ad28.jpg",
+    "static/media/Onychomycosis.jpg": "/nailweb/static/media/Onychomycosis.1583174ceb4dd428f91d.jpg",
+    "static/media/handlogo.png": "/nailweb/static/media/handlogo.57a1c6c81fcc93dfc75f.png",
+    "static/media/onycholysis.jpg": "/nailweb/static/media/onycholysis.42f452abda1b09f58883.jpg",
+    "static/media/blackline.webp": "/nailweb/static/media/blackline.60bc182bcaf43236ae16.webp",
+    "static/media/contentpic.jpg": "/nailweb/static/media/contentpic.e38ab0793f1ce8adad09.jpg",
+    "static/media/bkpic.png": "/nailweb/static/media/bkpic.9ccb794a485bbd412bba.png",
+    "static/media/Clubbing.webp": "/nailweb/static/media/Clubbing.a16df129ea4a134db4d0.webp",
+    "static/media/whitespotpage.jpg": "/nailweb/static/media/whitespotpage.6f7ee2e31158a22fae49.jpg",
+    "static/media/Beau_s.webp": "/nailweb/static/media/Beau_s.7b2119de671d101d348a.webp",
+    "index.html": "/nailweb/index.html",
+    "main.912d33a7.css.map": "/nailweb/static/css/main.912d33a7.css.map",
+    "main.7742a2ec.js.map": "/nailweb/static/js/main.7742a2ec.js.map",
+    "787.88dfdeb5.chunk.js.map": "/nailweb/static/js/787.88dfdeb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.912d33a7.css",
+    "static/js/main.7742a2ec.js"
+  ]
+}
